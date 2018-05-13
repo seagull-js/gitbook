@@ -2,6 +2,7 @@
 
 * [WIP: Seagull Handbook](README.md)
 * [Quickstart](quickstart.md)
+* [Mental Model: LEAN](mental-model-lean.md)
 * [Build](app-development-process/README.md)
   * [Create New App](app-development-process/create-new-app.md)
   * [Draft Some Pages](app-development-process/untitled.md)
