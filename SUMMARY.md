@@ -1,5 +1,10 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [App Development Process](app-development-process.md)
+* [App Development Process](app-development-process/README.md)
+  * [Create New App](app-development-process/create-new-app.md)
+  * [Draft Some Pages](app-development-process/untitled.md)
+  * Design Visual Components
+  * [Develop Interactive UX](app-development-process/untitled-1.md)
+  * [Fetch/Persist Dynamic Data](app-development-process/fetch-persist-dynamic-data.md)
 

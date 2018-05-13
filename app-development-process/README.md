@@ -7,7 +7,7 @@ description: >-
 
 # App Development Process
 
-![The App Development Process](.gitbook/assets/dev-process%20%281%29.svg)
+![The App Development Process](../.gitbook/assets/dev-process%20%281%29.svg)
 
 ### Create New App
 
