@@ -6,6 +6,8 @@ description: >-
 
 # WIP: Seagull Handbook
 
+![](.gitbook/assets/seagull-logo.png)
+
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
