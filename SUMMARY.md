@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [WIP: Seagull Handbook](README.md)
 * [App Development Process](app-development-process/README.md)
   * [Create New App](app-development-process/create-new-app.md)
   * [Draft Some Pages](app-development-process/untitled.md)

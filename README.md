@@ -1,4 +1,10 @@
-# Initial page
+---
+description: >-
+  This handbook explains how the seagull framework empowers you to build, launch
+  and scale web apps in no time.
+---
+
+# WIP: Seagull Handbook
 
 ## Getting Super Powers
 
